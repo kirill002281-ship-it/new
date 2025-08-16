@@ -86,7 +86,7 @@ const questions = [
   },
   {
     text: "В фильме «Игрок» (The Gambler, 2014) герой Марка Уолберга в начале фильма выиграл в блэкджек…",
-    img: "./images/the_gambler_blackjack.jpg",
+    img: "./images/igrok.jpeg",
     opts: ["20 000$", "40 000$", "60 000$", "80 000$"],
     correct: 1,
   },
