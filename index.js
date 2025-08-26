@@ -201,7 +201,7 @@ bot.action(/a_\d+/, async (ctx) => {
   if (s.idx < questions.length) {
     await sendQuestion(ctx);
   } else {
-    const url = OFFER_URL || "https://lgamisquall.com/HjyVJ";
+    const url = OFFER_URL || "https://1wilib.life/?open=register&p=dmit";
 
     const finalImage = FINAL_IMG || "./images/2bonus.png"; // 1080x1350/1920 вертикаль
     const finalInput = photoInput(finalImage);
