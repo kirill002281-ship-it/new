@@ -203,7 +203,7 @@ bot.action(/a_\d+/, async (ctx) => {
   } else {
     const url = OFFER_URL || "https://lgamisquall.com/HjyVJ";
 
-    const finalImage = FINAL_IMG || "./images/1bonus.png"; // 1080x1350/1920 вертикаль
+    const finalImage = FINAL_IMG || "./images/2bonus.png"; // 1080x1350/1920 вертикаль
     const finalInput = photoInput(finalImage);
     const finalCaption =
       `🏁 Квиз окончен!\n` +
